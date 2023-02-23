@@ -1,4 +1,3 @@
-const str="Hello world";
+let komron = "Komronbek";
 
-
-const firstName="Komronbek";
+let asadbek = "Asadbek";
