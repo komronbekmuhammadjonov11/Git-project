@@ -1,1 +1,1 @@
-const str = "Hello world";
+let arr = [3, 34, 34];
