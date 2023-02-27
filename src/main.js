@@ -1,1 +1,1 @@
-const str = "Hello qwdqdwqdwqdwqwdqwdqwdqwdqwdqwdqwdqwd";
+const str = "Hello world";
