@@ -1,3 +1,1 @@
-let komron = "Komronbek";
-
-let asadbek = "Asadbek";
+const str = "Hello";
